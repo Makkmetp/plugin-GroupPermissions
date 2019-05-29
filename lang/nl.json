@@ -1,0 +1,27 @@
+{
+    "GroupPermissions": {
+        "MenuGroupPermissions": "Groepsrechten",
+        "GroupPermissions": "Groepsrechten",
+        "Group": "Groep",
+        "DescriptionAccessTab": "Bepaal welke groepen toegang hebben tot uw websites. U kunt ook in één keer toegang geven tot alle websites door te kiezen \"Op alle websites toepassen\" in de website selector.",
+        "DescriptionGroupsTab": "Hier kun je de leden van elke groep bekijken. Superusers kunnen de groepen bewerken.",
+        "ExceptionGroupDoesNotExist": "Deze groep bestaat niet",
+        "ExceptionGroupDoesExist": "Deze groep bestaat al",
+        "ManageAccess": "Beheer Toegang",
+        "ManageGroups": "Beheer Groepen",
+        "CreateNewGroup": "Maak een nieuwe groep",
+        "CreateNewGroupButton": "Maak een groep",
+        "ManageGroup": "Beheer groep",
+        "ManageGroupMembers": "Beheer groeps leden",
+        "RemoveFromGroup": "Verwijder",
+        "AddUserToGroup": "Voeg een nieuw lid toe aan deze groep",
+        "AddUserToGroupButton": "Lid toevoegen",
+        "RenameGroup": "Hernoem deze groep",
+        "RenameGroupButton": "Hernoem groep",
+        "DeleteGroup": "Verwijder deze groep",
+        "DeleteGroupButton": "Verwijder groep",
+        "RemoveFromGroupConfirm": "Weet je zeker dat je gebruiker '%s' wilt verwijderen van groep '%s'?",
+        "RenameGroupConfirm": "Weet je zeker dat je groep wilt hernoemen van '%s' naar '%s'?",
+        "DeleteGroupConfirm": "Weet je zeker dat je de groep '%s' wilt verwijderen?"
+    }
+}
